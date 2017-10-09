@@ -1,0 +1,55 @@
+html {
+
+ background-image: url('https://i.pinimg.com/originals/6a/6f/f4/6a6ff483d14e9a833bc72bba4767a527.jpg');
+ background-size: 100%;
+
+}
+
+
+body {
+  padding:1.5em 0;
+
+}
+
+body > p {
+  display:inline-block;
+  text-align:center;
+  width:100px;
+  padding:10px;
+  background:#eee;
+}
+p+p {
+  margin-left:5px;
+}
+	
+blockquote {
+  background:#333;
+  color:#fff;
+  padding:10px;
+  margin:8px 0;
+  opacity: 0.9;
+}
+blockquote ~ p {
+  vertical-align:top;
+  background:#bbb;
+}
+
+.formation {
+
+ text-align: left;
+
+}
+
+.image { 
+
+  float:left; margin:-10px 10px 0 20px;
+  border-radius:10px; 
+
+}
+
+
+.name {
+
+color: #fff;
+
+}

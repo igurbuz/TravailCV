@@ -1,0 +1,107 @@
+html {
+
+	background-color: gray;
+	background-image: url('https://i.pinimg.com/originals/6a/6f/f4/6a6ff483d14e9a833bc72bba4767a527.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	font-family: Georgia, serif;
+	background-size: 100%;
+	width: 100%;
+	height: 100%;
+
+}
+.name {
+	
+	background-color: #1E90FF;
+	max-width: 25%;
+
+}
+	
+
+.formation {
+
+	background-color: #1E90FF;
+	max-width: 25%;
+
+
+}
+
+.objectifs {
+
+	background-color: #1E90FF;
+	max-width: 25%;
+
+}
+
+.compétences {
+
+	background-color: #1E90FF;
+	max-width: 25%;
+
+}
+
+.back {
+
+	background-color: #1E90FF;
+	max-width: 25%;
+
+}
+
+.front {
+
+	background-color: #1E90FF;
+	max-width: 25%;
+
+}
+
+.langues {
+
+	background-color: #1E90FF;
+	max-width: 25%;
+
+}
+
+.hobbys {
+
+	background-color: #1E90FF;
+	max-width: 25%;
+
+}
+
+.liste {
+
+	background-color: #1E90FF;
+	max-width: 25%;
+
+}
+
+.liste2 {
+
+	background-color: #1E90FF;
+	max-width: 25%;
+
+}
+
+.moi {
+
+
+	position: relative;
+
+}
+
+.moi2 {
+
+	float: right;
+	background-color: #1E90FF;
+	max-width: 25%;
+
+}
+
+
+.moi3 {
+
+	float: right;
+	background-color: #1E90FF;
+	max-width: 25%;
+
+}
